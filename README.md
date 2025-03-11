@@ -22,4 +22,4 @@ Understand the yearly trends in medical conditions and analyze the relationship 
 Evaluate which medical conditions impact specific age groups the most through data analysis. Optimize care strategies to improve patient outcomes. Develop and strengthen care management systems to enhance hospital treatment processes while ensuring financial sustainability through data-driven decision-making.
 
 
-### **[Healthcare Tableau Dashboard](https://public.tableau.com/app/profile/debbie.chen5726/viz/Healthcare2_17411512273230/Dashboard)**
+### **[Healthcare Tableau Dashboard]([https://public.tableau.com/app/profile/debbie.chen5726/viz/Healthcare2_17411512273230/Dashboard2_1])**
