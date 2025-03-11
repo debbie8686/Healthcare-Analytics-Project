@@ -1,5 +1,8 @@
 # Healthcare-Analytics-Project
 
+## **Introduction** 
+This project explores trends in the healthcare sector. By collecting, analyzing, and evaluating healthcare data, it aims to obtain actionable insights and inform decision-making to improve patient care, enhance operational efficiency, and drive organizational performance. The analysis includes demographic information, medical conditions, treatment medications, and billing data to identify disease trends. The study utilizes Python for Exploratory Data Analysis (EDA), SQL for database management, and Tableau for interactive dashboards to extract valuable insights.
+
 ## **Business Objectives**  
 The purpose of this project is to help healthcare organizations improve patient care and financial efficiency.
 
